@@ -1,7 +1,7 @@
 # apprentissage_stat
 Repositoire pour le projet d'Apprentissage Statistique
 
-🧩 Project Overview
+## 🧩 Project Overview
 In March 2020, the World Health Organization declared COVID-19 a global pandemic.
 Countries in the WHO South-East Asia Region were facing:
 First imported cases
@@ -13,9 +13,9 @@ Which countries are performing well in controlling the pandemic
 Which require immediate attention
 We use machine learning & statistical techniques (preprocessing, PCA, HDBSCAN, KMeans, outlier detection) to provide actionable insights.
 
-📂 Repository Structure
+## 📂 Repository Structure
 
-'''
+```
 📦 project/
 │
 ├── 📁 data/
@@ -27,9 +27,9 @@ We use machine learning & statistical techniques (preprocessing, PCA, HDBSCAN, K
 │
 ├── Covid19Description.pdf             # List of dependencies
 └── README.md                    # Main project description
-'''
+```
 
-🧪 Methods Used
+## 🧪 Methods Used
 1. Data Cleaning & Preprocessing
 Handling missing values
 Standardization (RobustScaler / StandardScaler)
@@ -51,7 +51,7 @@ PCA 2D & 3D mapping
 Visualizing clusters
 Understanding variable influence
 
-🎯 Goal of the Project
+## 🎯 Goal of the Project
 To answer the question:
 “Which countries are doing relatively well and which ones need immediate attention?”
 Using:
