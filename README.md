@@ -1,5 +1,4 @@
-# apprentissage_stat
-Repositoire pour le projet d'Apprentissage Statistique
+# Covid Statistical Learning
 
 ## 🧩 Project Overview
 In March 2020, the World Health Organization declared COVID-19 a global pandemic.
